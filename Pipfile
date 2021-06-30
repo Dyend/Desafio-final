@@ -5,9 +5,14 @@ name = "pypi"
 
 [packages]
 numpy = "*"
-gym = "*"
 slimevolleygym = "*"
 opencv-python = "*"
+scipy = "*"
+neat-python = "==0.8"
+argparse = "*"
+gym = "*"
+Box2D = "*"
+atari-py = "*"
 
 [dev-packages]
 
