@@ -1,14 +1,14 @@
-# Desafio-final
+# Desafio-final  
+Gerenaciones de aprendizaje  
 
-#Gerenaciones de aprendizaje.
-#Generación 1
+Generación 1  
 #![alt text](imgs/generacion_1.gif)
-#Generación 50
+#Generación 50  
 #![alt text](imgs/generacion_50.gif)
-#Generación 200
-#![alt text](imgs/generacion_200.gif)
-#Coevaluación
+#Generación 200  
+#![alt text](imgs/generacion_200.gif)  
 
+#Coevaluación  
 |Criterio                 | Jose Luis Alonso | Juan Pablo Raab | Diego Acosta |
 |-------------------------|------------------|-----------------|----------------|
 |Asistencia y puntualidad |Asiste con puntualidad a todas las reuniones |Asiste con puntualidad a todas las reuniones |Asiste con puntualidad a todas las reuniones |
