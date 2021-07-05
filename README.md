@@ -1,5 +1,5 @@
 # Desafio-final  
-Gerenaciones de aprendizaje  
+Generaciones de aprendizaje  
 
 Generación 1  
 ![alt text](imgs/generacion_1.gif)    
