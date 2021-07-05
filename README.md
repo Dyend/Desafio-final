@@ -1,5 +1,8 @@
 # Desafio-final
 
+#Gerenaciones de aprendizaje.
+#Generación 1
+![alt text](imgs/Generacion 1.png)
 
 
 #Coevaluación
