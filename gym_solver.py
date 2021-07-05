@@ -8,7 +8,7 @@ from neat import nn, population, statistics, parallel
 ### User Params ###
 
 # The name of the game to solve
-game_name = 'MountainCar-v0'
+game_name = 'LunarLander-v2'
 
 ### End User Params ###
 

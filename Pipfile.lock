@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "ce9165dc3ea931138506cd1145275024a386d31e394b2b144d1b9a63425821cc"
+            "sha256": "23da81c93f86a3afcd7372e9e77b6ee64bda3bf2c0a67a31157f00520e42d955"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -23,13 +23,6 @@
             ],
             "index": "pypi",
             "version": "==1.4.0"
-        },
-        "atari-py": {
-            "hashes": [
-                "sha256:54d4386f92278cbfcd7ed905523a6d9ab4542afd0c2a5f06bd4f66712a3ea447"
-            ],
-            "index": "pypi",
-            "version": "==0.3.0"
         },
         "box2d": {
             "hashes": [
@@ -209,21 +202,6 @@
             ],
             "index": "pypi",
             "version": "==1.7.0"
-        },
-        "six": {
-            "hashes": [
-                "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
-                "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
-            ],
-            "version": "==1.16.0"
-        },
-        "slimevolleygym": {
-            "hashes": [
-                "sha256:d372344408636bba77324f9cbab10058f73d80950509a1f37d48eb23b5d51fb0",
-                "sha256:ef80b86a785ceb5e4f0649ab75f39cc54a3134c96a15e40da858383e56eb6582"
-            ],
-            "index": "pypi",
-            "version": "==0.1.0"
         }
     },
     "develop": {}

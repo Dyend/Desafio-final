@@ -8,10 +8,10 @@ stagnation_type      = DefaultStagnation
 reproduction_type    = DefaultReproduction
 
 [phenotype]
-input_nodes          = 2
-hidden_nodes         = 2
-output_nodes         = 3
-initial_connection   = unconnected
+input_nodes          = 8
+hidden_nodes         = 0
+output_nodes         = 4
+initial_connection   = partial 0.5
 max_weight           = +30
 min_weight           = -30
 feedforward          = 1
@@ -21,9 +21,10 @@ weight_stdev         = 1.0
 [genetic]
 pop_size                = 150
 max_fitness_threshold   = 1000
-prob_add_conn = 0.988
-prob_add_node = 0.25
-prob_delete_conn = 0.146
+
+prob_add_conn = 0.15
+prob_add_node = 0.15
+prob_delete_conn = 0.1
 prob_delete_node = 0.1
 prob_mutate_bias = 0.0509
 bias_mutation_power = 2.093
@@ -34,7 +35,7 @@ prob_replace_weight = 0.0245
 weight_mutation_power = 0.825
 prob_mutate_activation = 0.0
 prob_toggle_link = 0.0138
-reset_on_extinction = 1
+reset_on_extinction = 0
 
 [genotype compatibility]
 compatibility_threshold = 3.0

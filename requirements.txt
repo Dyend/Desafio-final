@@ -1,0 +1,10 @@
+argparse==1.4.0
+box2d==2.3.10
+cloudpickle==1.6.0
+gym==0.18.3
+neat-python==0.8
+numpy==1.21.0
+opencv-python==4.5.2.54
+pillow==8.2.0
+pyglet==1.5.15
+scipy==1.7.0
